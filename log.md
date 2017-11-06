@@ -13,6 +13,18 @@
 **Link(s) to work** :
 -->
 -----------
+ ### Day 75 : November 6, Monday
+ 
+ **Today's Progress** : Working on JS30. Completed Module #7. Learned about HTML5 canvas
+ 
+ **Thoughts** : It feels good to progress towards the goal. Got my first web development gig. Gonna give all the best I got. Let's make an awesome website. Will start working on it from next week. Tomorrow going to enroll in the Advanced CSS course. Really excited to learn.
+ 
+**Thing(s) learned** :
+- HTML5 canvas and stuffs like context, strokes, Hue
+
+**Link(s) to work** : [JS30 Repo](https://github.com/shovanch/JavaScript30)
+
+---
 ### Day 74 : November 5, Sunday
  **Today's Progress** : Back after a longgggg break. Continuing from where I left off, Did module #7 of JS30 on array methods - some(), every(), find(), findIndex(). Lets build up the momentum. 🚀
  
