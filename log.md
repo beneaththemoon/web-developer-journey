@@ -12,13 +12,29 @@
 **Thing(s) learned** :
 **Link(s) to work** :
 -->
+---
+### Day 76 & 77 : November 7 - 8, Tues - Wednesday
+
+**Today's Progress** : Started the Advanced CSS course on Udemy. Completed 2 sections of it. Did the local storage module of JS30.
+
+**Thoughts** : The advanced CSS course is just awesome. Tons of great stuff to learn. So far, learned about CSS animations, transform properties, pseudo selectors. I can say, now I get those things. This course is going to help a lot. Checked his JS course, after doing this. Will do that, while obviously doing the projects. From now on, projects are the main focus. Got an idea to build a twitter prototype. First, the design, then basic front-end logics. Then, can implement the database and back-end stuffs. It would be a great learning experience.
+
+**Thing(s) learned** :
+- CSS animations, transform, pseudo selector elements
+- How to use localstorge to getItem, setItem, removeItem
+- Using event delegation for children elements on the parent
+
+**Link(s) to work** :
+- [CSS Course Repo](https://github.com/shovanch/advanced-css-course-projects)
+- [JS30 Repo](https://github.com/shovanch/JavaScript30)
+
 -----------
  ### Day 75 : November 6, Monday
- 
+
  **Today's Progress** : Working on JS30. Completed Module #7. Learned about HTML5 canvas
- 
+
  **Thoughts** : It feels good to progress towards the goal. Got my first web development gig. Gonna give all the best I got. Let's make an awesome website. Will start working on it from next week. Tomorrow going to enroll in the Advanced CSS course. Really excited to learn.
- 
+
 **Thing(s) learned** :
 - HTML5 canvas and stuffs like context, strokes, Hue
 
@@ -27,9 +43,9 @@
 ---
 ### Day 74 : November 5, Sunday
  **Today's Progress** : Back after a longgggg break. Continuing from where I left off, Did module #7 of JS30 on array methods - some(), every(), find(), findIndex(). Lets build up the momentum. 🚀
- 
+
  **Thoughts** : 46 Days to go. Had to take the break due semester exam. Now I am back. Goal is to make completed projects as many as possible before the year end. Lets do this.
- 
+
 **Thing(s) learned** :
 - `array.some()`, `array.every()`
 - `array.find()`, `array.findIndex()`
@@ -40,7 +56,7 @@
 -----------
 ### Day 73 : October 12, Thursday
  **Today's Progress** : Back to coding after a week. Been seriously ill. Feels great to come back. Going to continue where I left off. 73 days left to Christmas vacation. Hoping to complete least the React path before that. <br> Started the #100DaysOfCSS. Great way to work on CSS skills, quite useful as a front-end developer. Lets see how many of this can be done. Worked on time component for the React Extension
- 
+
 **Link(s) to work** : [#DAY1 Pen](https://codepen.io/shovanch/full/eGjLyw)
 
 -----------
