@@ -13,6 +13,9 @@
 **Link(s) to work** :
 -->
 ---
+### November 9 - 10, Thurs - Friday
+Coding on hold. Spent all the time doing the assignments. Promise, I'll make up all the time. Back to coding from tomorrow, with high spirit.
+---
 ### Day 76 & 77 : November 7 - 8, Tues - Wednesday
 
 **Today's Progress** : Started the Advanced CSS course on Udemy. Completed 2 sections of it. Did the local storage module of JS30.
