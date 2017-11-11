@@ -7,14 +7,27 @@
 **Start Date** :  ***June 11***
 <!--
 ### Day  :
- **Today's Progress** :
- **Thoughts** :
+**Today's Progress** :
+**Thoughts** :
 **Thing(s) learned** :
 **Link(s) to work** :
 -->
 ---
+### Day 78 : November 11, Saturday
+
+**Today's Progress** : Not much learning today. Got home quite late from college. Put in a bit of work on The Advanced CSS course on CSS processing section. Mainly theoritical stuff but quite useful for better understanding while writing code. Hoping a bit more done tomorrow.
+
+**Thoughts** : So far this course has been awesome. Very useful learning materials. Enjoying the learning.
+
+**Thing(s) learned** :
+- How values are parsed in CSS
+- How CSS inheritance works behind the scene
+
+---
 ### November 9 - 10, Thurs - Friday
+
 Coding on hold. Spent all the time doing the assignments. Promise, I'll make up all the time. Back to coding from tomorrow, with high spirit.
+
 ---
 ### Day 76 & 77 : November 7 - 8, Tues - Wednesday
 
