@@ -13,6 +13,17 @@
 **Link(s) to work** :
 -->
 ---
+### Day 79 : November 12, Sunday
+**Today's Progress** : Continuing with the CSS course. Did modules about CSS value parsing, inheritance, Visual formatting model and BEM architecture.
+
+**Thoughts** : All are moving smoothly so far. Hoping get this course done by this week. Then, apply the knowledge to make 3/4 cool projects. Going to get the sass section done by tonight.
+
+**Thing(s) learned** :
+- CSS value parsing process
+- Visual formatting model
+- BEM and component-driven design
+
+---
 ### Day 78 : November 11, Saturday
 
 **Today's Progress** : Not much learning today. Got home quite late from college. Put in a bit of work on The Advanced CSS course on CSS processing section. Mainly theoritical stuff but quite useful for better understanding while writing code. Hoping a bit more done tomorrow.
