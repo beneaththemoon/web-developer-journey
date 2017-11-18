@@ -13,6 +13,18 @@
 **Link(s) to work** :
 -->
 ---
+### Day 80 - 84 : November 13 - 17, Mon - Friday
+**Today's Progress** : So, forgot to update the log for the last few days. But, I have coding, working on the advanced CSS course. Made good improvement so far. Learnt a lot of new, useful things. Nearly done with the first project using floats. Hopes to get complete that by tomorrow incl. the responsinve part.
+
+**Thoughts** : Codeschool free weekend is going on. Will take the ajax course. That one need to be hammered out.
+
+**Thing(s) learned** :
+
+**Link(s) to work** :
+- [CSS Projects repo](https://github.com/shovanch/advanced-css-course-projects)
+- [Natours live site](https://shovanch.com/advanced-css-course-projects/Natours/)
+
+---
 ### Day 79 : November 12, Sunday
 **Today's Progress** : Continuing with the CSS course. Did modules about CSS value parsing, inheritance, Visual formatting model and BEM architecture.
 
