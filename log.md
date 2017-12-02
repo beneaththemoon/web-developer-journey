@@ -12,6 +12,20 @@
 **Thing(s) learned** :
 **Link(s) to work** :
 -->
+
+---
+## Day 90 - 98 : November 23 - Dec 01 , Thurs - Friday
+**Today's Progress** : Completed the first part of Advanced CSS course. Learnt a lot of things. Excited to implement them in projects.  Logging the progress hasn't been consistent this round. Hope them, learn from the pitfalls and better them in Next round of coding.
+
+**Link(s) to work** :
+- [CSS Projects repo](https://github.com/shovanch/advanced-css-course-projects)
+- [Natours live site](https://shovanch.com/advanced-css-course-projects/Natours/)
+- [Trillo live site](https://shovanch.com/advanced-css-course-projects/Trillo/)
+
+**Link(s) to work** :
+- [CSS Projects repo](https://github.com/shovanch/advanced-css-course-projects)
+- [Natours live site](https://shovanch.com/advanced-css-course-projects/Natours/)
+
 ---
 ### Day 85 - 89 : November 18 - 22, Sat - Wednesday
 **Today's Progress** : I have been coding daily. Just missed the log part. Working on the advanced CSS course. Pace has been a bit slow. Hope to speed things up a bit.
