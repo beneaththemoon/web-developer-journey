@@ -12,6 +12,9 @@
 **Thing(s) learned** :
 **Link(s) to work** :
 -->
+---
+## December 02 - 03, Sat - Sunday
+Missed days. Will be back to coding from tomorrow.
 
 ---
 ## Day 90 - 98 : November 23 - Dec 01 , Thurs - Friday
